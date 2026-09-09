@@ -52,7 +52,7 @@ He trabajado principalmente en:
 - Visual Studio Code
 - APIs REST
 
-## 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 - Desarrollo Frontend
 - Angular
@@ -61,6 +61,6 @@ He trabajado principalmente en:
 - Bases de datos
 - Buenas prácticas con Git y GitHub
 
-## 🎯 Objetivo profesional
+## Objetivo profesional
 
 Busco mi primera oportunidad profesional en tecnología como **Frontend Developer / Junior Developer**, donde pueda aportar los conocimientos adquiridos en mi formación y proyectos, mientras continúo creciendo como desarrolladora.
